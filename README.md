@@ -2,7 +2,7 @@
 
 This is a simple jarmod that adds coordinates to Minecraft Alpha and Infdev debug screens.
 
-Works for minecraft versions (see downloads note) ranging from inf-20100227 to a1.1.2_01. These versions utilize infinte world generation, where coords are missing but needed. Notch didn't add coordinates until a1.2.3.
+Works for Minecraft versions ranging from inf-20100227 to a1.1.2_01 (see downloads). These versions utilize infinte world generation, where coords are missing but needed. Notch didn't add coordinates until a1.2.3.
 
 <code style="color : gray">Extended support for versions following a1.2.3 may happen in the future</code>
 
@@ -28,7 +28,7 @@ The revised display simply improves the OG format:
 
 # Downloads
 
-Due to various unforseen circumstances in older versions, I haven't modded every version from inf-20100227 to a1.1.2_01. I managed to mod 39 versions in this range, addressing for the more notable releases. Hopefully you can find the version you're looking for. 
+Due to various unforseen circumstances in older versions, I haven't modded every version (yet) from inf-20100227 to a1.1.2_01. I managed to mod 39 versions in this range, addressing for the more notable releases. Hopefully you can find the version you're looking for. 
 
 [Coordinates_v1.0 Version Folder](https://github.com/Skellz64/Old-MC-Coordinates/tree/main/Coordinates_v1.0)
 
@@ -46,5 +46,5 @@ For Betacraft v1.0, it's more complex as you will need to jarmod the version you
 - highlight and right click on the version.jar you are using (ex: <code style="color : gray">a1.1.2_01.jar</code>)
 - after right click, you can choose <code style="color : gray">Open with WinRAR</code>
 - with the jar open, also open the downloaded coords.zip
-- move the single <code style="color : gray">.class</code> file from coords zip to the opened version.jar.
+- move the single <code style="color : gray">.class</code> file from coords.zip to the opened version.jar.
 - Press <code style="color : gray">OK</code> , done! Relaunch Betacraft v1.0 and play.
