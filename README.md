@@ -1,10 +1,10 @@
 # Old-MC-Coordinates
 
-This is a simple jarmod that adds coordinates to Minecraft Infdev and Alpha debug screens.
+This is a simple jarmod that adds coordinates to Minecraft Alpha and Infdev debug screens.
 
 Works for minecraft versions (see downloads note) ranging from inf-20100227 to a1.1.2_01. These versions utilize infinte world generation, where coords are missing but needed. Notch didn't add coordinates until a1.2.3.
 
-<code style="color : gray">Extended support for versions following a1.2.3 may happen (w/revised display) in the future</code>
+<code style="color : gray">Extended support for versions following a1.2.3 may happen in the future</code>
 
 # Features
 
@@ -26,16 +26,25 @@ The revised display simply improves the OG format:
 - adds cardinal directions in words
 - floors the y-axis to feet level (64.000 and not 65.620 when standing on a full block at y-64).
 
-# How to install
-
-This is a jarmod, so I recommend using Betacraft v2.0, MultiMC, or PrismLauncher. These launchers allow for jarmods to be easily setup older versions. They all have different but similar ways of adding jarmods... 
-
-Mainly: edit your instance in said launcher, locate the "add to Minecraft.jar" button, and open the downloaded zip.
-
 # Downloads
 
-Due to some limitations for decompilation in older versions, I can't decompile every version from inf-20100227 to a1.1.2_01. I managed to mod 40 versions in this range, addressing for the more notable releases. Hopefully you can find the version you're looking for. 
+Due to various unforseen circumstances in older versions, I haven't modded every version from inf-20100227 to a1.1.2_01. I managed to mod 39 versions in this range, addressing for the more notable releases. Hopefully you can find the version you're looking for. 
 
-[Coordinates_v1.0 Version Folder](https://github.com/Skellz64/Old-Coordinates/tree/main/Coordinates_v1.0)
+[Coordinates_v1.0 Version Folder](https://github.com/Skellz64/Old-MC-Coordinates/tree/main/Coordinates_v1.0)
 
 The downloads are named "Coordinates_v1.0_" followed by "(version name)" ensure that you are downloading the correct version.
+
+# How to install
+
+This is a jarmod, so I recommend using MultiMC, PrismLauncher, or Betacraft v2.0. These launchers allow for jarmods to be easily setup older versions. They all have similar ways of adding jarmods... Edit your instance in said launcher, locate the <code style="color : gray">add to Minecraft.jar</code> button, and open the downloaded coords.zip.
+
+For Betacraft v1.0, it's more complex as you will need to jarmod the version yourself. You will also need a zip explorer (I like WinRAR for Windows)
+
+- after downloading coords.zip for prefered version, open the <code style="color : gray">%appdata%</code> folder
+- open the <code style="color : gray">.betacraft</code> folder
+- open the <code style="color : gray">versions</code> folder
+- highlight and right click on the version.jar you are using (ex: <code style="color : gray">a1.1.2_01.jar</code>)
+- after right click, you can choose <code style="color : gray">Open with WinRAR</code>
+- with the jar open, also open the downloaded coords.zip
+- move the single <code style="color : gray">.class</code> file from coords zip to the opened version.jar.
+- Press <code style="color : gray">OK</code> , done! Relaunch Betacraft v1.0 and play.
