@@ -36,7 +36,9 @@ The downloads are named "Coordinates_v1.0_" followed by "(version name)" ensure 
 
 # How to install
 
-This is a jarmod, so I recommend using MultiMC, PrismLauncher, or Betacraft v2.0. These launchers allow for jarmods to be easily setup older versions. They all have similar ways of adding jarmods... Edit your instance in said launcher, locate the <code style="color : gray">add to Minecraft.jar</code> button, and open the downloaded coords.zip.
+Install [Java 8](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) (jdk8), most mods for older versions use Java 8. So it's always a good idea to have it.
+
+This is a jarmod so I recommend using MultiMC, PrismLauncher, or Betacraft v2.0. These launchers allow for jarmods to be easily setup older versions. They all have similar ways of adding jarmods... Edit your instance in said launcher, locate the <code style="color : gray">add to Minecraft.jar</code> button, and open the downloaded coords.zip.
 
 For Betacraft v1.0, it's more complex as you will need to jarmod the version yourself. You will also need a zip explorer (I like WinRAR for Windows)
 
