@@ -2,7 +2,7 @@
 
 This is a simple jarmod that adds coordinates to Minecraft Alpha and Infdev debug screens.
 
-Works for Minecraft versions ranging from inf-20100227 to a1.1.2_01 (see downloads). These versions utilize infinte world generation, where coords are missing but needed. Notch didn't add coordinates until a1.2.3.
+Works for Minecraft versions ranging from inf-20100227 to a1.2.2 (see downloads). These versions utilize infinte world generation, where coords are missing but needed. Notch didn't add coordinates until a1.2.3.
 
 <code style="color : gray">support for versions following a1.2.3 may happen in the future</code>
 
@@ -28,7 +28,7 @@ The revised display simply improves the OG format:
 
 # Downloads
 
-Due to various unforseen circumstances in older versions, I haven't modded every version (yet) from inf-20100227 to a1.1.2_01. I managed to mod 39 versions in this range, addressing for the more notable releases. Hopefully you can find the version you're looking for. 
+Due to various unforseen circumstances in older versions, I haven't modded every version (yet) from inf-20100227 to a1.2.2. I managed to mod 39 versions in this range, addressing for the more notable releases. Hopefully you can find the version you're looking for. 
 
 [Coordinates_v1.0 Version Folder](https://github.com/Skellz64/Old-MC-Coordinates/tree/main/Coordinates_v1.0)
 
