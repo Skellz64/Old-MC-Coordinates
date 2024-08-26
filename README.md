@@ -10,4 +10,4 @@ This repo was made to report issues, and contain any additonal information.
 
 I recommend joining the [Modification Station](https://discord.gg/8Qky5XY) discord server, a community dedicated to modding old minecraft! Once you join the server, you can find my mod post by clicking on the <code style="color : gray">mods</code> tab and searching <code style="color : gray">coordinates</code>. 
 
-*Discord is where you can contact me directly with any questions regarding the mod*
+**Discord is where you can contact me directly with any questions regarding the mod**
